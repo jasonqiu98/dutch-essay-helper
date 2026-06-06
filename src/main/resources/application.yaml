@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+ollama:
+  base-url: http://localhost:11434
+  model: qwen3:4b
